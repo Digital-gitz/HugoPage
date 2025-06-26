@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://digital-gitz.github.io/HugoPage/'
 languageCode = 'en-us'
 title = 'My Digital Blog Site'
 theme = 'ananke'
